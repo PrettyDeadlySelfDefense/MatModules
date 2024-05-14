@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_halo" translatable="false">Halo</string>
+    <string name="title_halo_activity" translatable="false">HaloActivity</string>
+    <string name="halo_card" translatable="false">haloCard</string>
+</resources>
